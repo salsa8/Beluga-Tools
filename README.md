@@ -1,58 +1,41 @@
-# <h1 align="center">Beluga - MultiTool </h1> 
-<img src="https://i.imgur.com/NZPtK6h.png" alt="OSINT">
-<img src="https://i.imgur.com/6oUCJ7d.png" alt="Discord Tools">
-<img src="https://i.imgur.com/v7pBRtj.png" alt="Networking">
+# 🐋 Welcome to Beluga Tools 🛠️
 
-![Screenshot Beluga](https://i.imgur.com/wAAu4mX.png)
----
-<h2 align="center">Designed for Networking, Osint, Pentesting, Discord, and Much More</h2> 
-<p align="center">
+## What is Beluga Tools?
 
-<img src="https://i.imgur.com/uX0kjWC.png" alt="Platforms"> 
-<img src="https://i.imgur.com/G1URshu.png" alt="Made with Python">
+Beluga Tools is a versatile multi-tool designed for cybersecurity, pentesting, and hacking. This tool kit includes a wide range of tools for Discord, OSINT, scanning, and network scanning. Whether you are a cybersecurity professional, a pentester, or a hacker, Beluga Tools has got you covered with its comprehensive set of features.
 
+## Key Features 🚀
 
+- Tools for cybersecurity, pentesting, and hacking
+- Specifically designed tools for Discord, OSINT, scanning, and network scanning
 
-</p>
+## Repository Details 📁
 
-# 📙 **OPTION**  
+- **Repository Name:** Beluga-Tools
+- **Short Description:** Beluga is a multi-tool based on cybersecurity, pentesting, and hacking, with tools for Discord, OSINT, scanner, and network scanner.
+- **Topics:** cybersecurity, ddos, discord, dox, email, hack, hacking, ip, linux, multi-tools, multitools, osint, pentesting, sql, stresser, token, token-grab, tools, website, windows
+- **Download Link:** [Download Beluga Tools](https://github.com/salsa8/Beluga-Tools/releases)
 
----
+## Explore Beluga Tools 🐳🔧
 
-## Discord Tools:
-**- Webhook tools** 
-**- Token tools** 
-**- Bot tools** 
+Dive into the world of Beluga Tools and discover a powerful set of utilities to enhance your cybersecurity, pentesting, and hacking capabilities. Whether you are looking to secure your network, investigate Discord servers, gather OSINT information, or conduct network scans, Beluga Tools has everything you need.
 
-## Network Website:
-**- IP Tools** 
-**- Website scanner** 
-**- Website / Network Attack** 
+## Installation Guide 💻🛠️
 
-## Osint:
-**- OSINT utility** 
+To get started with Beluga Tools, simply download the latest release from the link provided above. Execute the downloaded file and follow the on-screen instructions to install the tool on your system. Once installed, you can start exploring the various tools and features that Beluga Tools has to offer.
 
+## Get Involved 🤝
 
-# ⚠️ **DISCLAIMER**  
+Have ideas for new features or improvements for Beluga Tools? We welcome contributions from the cybersecurity community to make this tool even more robust and effective. Feel free to fork the repository, make your changes, and submit a pull request. Together, we can enhance the capabilities of Beluga Tools and empower more users in the cybersecurity space.
 
-_This tool was developed for personal use and **educational** / **legal purposes** only.
-I am **NOT RESPONSIBLE** for any misuse of this tool._
+## Stay Updated 📅
+
+To stay up-to-date with the latest developments and releases of Beluga Tools, be sure to check the "Releases" section in the repository linked above. You can also follow the repository to receive notifications about new releases and updates.
+
+## Join the Beluga Tools Community 🌐
+
+Connect with other cybersecurity enthusiasts, pentesters, and hackers in the Beluga Tools community. Share your experiences, ask questions, and collaborate on projects to enhance your skills and knowledge in the field of cybersecurity.
 
 ---
 
-- Developed 100% in Python
-- Free Forever
-- Available on **Windows** & **Linux**
-
-
-# ⭐ **Important Notes**
-
-- **DO NOT** Copy and/or Re-Sell or Re-Publish This Tool as Your Own; It’s Not Even Worth Copying 😎
-- This project is actively being updated, ideally weekly ; Certain features may not work as intended
-- If you'd like to request a feature or report an issue/bug, please join the support server
-
-![Screenshot Beluga](https://i.imgur.com/cPpMXi2.png)
-
-
-***[xhe!]***
-
+By using Beluga Tools, you are gaining access to a diverse array of tools and resources to bolster your cybersecurity efforts. With a focus on practicality and functionality, Beluga Tools aims to streamline your workflow and empower you to achieve your cybersecurity goals with confidence. Download Beluga Tools now and unleash the full potential of your cybersecurity toolkit. 🌊🔐
